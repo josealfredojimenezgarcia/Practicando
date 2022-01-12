@@ -65,7 +65,7 @@ body{
 @media screen and (max-width: 768px){
 
 body{
-  background-color: black;
+  background-color: rgb(224, 20, 20);
 }
 
   .contenedor{
